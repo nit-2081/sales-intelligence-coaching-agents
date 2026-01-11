@@ -1,0 +1,28 @@
+{
+  "agent": "ai_sales_coach",
+  "call_id": "neg_call_02",
+  "rep_id": "rep_01",
+  "scores": {
+    "empathy": 100,
+    "pacing": 90,
+    "objection_handling": 70,
+    "closing": 45
+  },
+  "top_gaps": [
+    "closing",
+    "objection_handling"
+  ],
+  "micro_tips": [
+    "Always propose a clear next step or commitment to the customer, as this is essential for progressing the sales conversation.",
+    "When facing objections like price, competitor, or trust, take time to acknowledge and clarify the customer's specific concern, which helps in addressing it effectively.",
+    "Actively seek opportunities throughout the dialogue to propose a logical next action, as this ensures momentum and keeps the sales cycle moving forward."
+  ],
+  "confidence": 0.749,
+  "reasons": [
+    "Multiple empathy/acknowledgement phrases detected.",
+    "No long monologue segments detected (healthy pacing).",
+    "Objections detected and empathy signals present (better handling likelihood).",
+    "No closing attempt detected (missing clear next step).",
+    "ML quality probability: 0.49"
+  ]
+}

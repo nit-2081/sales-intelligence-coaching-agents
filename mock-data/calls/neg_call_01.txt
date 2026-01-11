@@ -1,0 +1,14 @@
+Customer: Hey, I saw your product, but I’m not sure it’s worth the price.
+Rep: Totally fair — can you share what you’re trying to achieve so I can map the value properly?
+Customer: We’re a small team and budget is tight. This feels expensive.
+Rep: That makes sense. What budget range are you working with?
+Customer: Around $200/month, but even then I’m worried it won’t actually help.
+Rep: I hear you. If we could prove impact quickly, would that change things?
+Customer: Maybe, but I’ve been burned by tools before. The support was terrible.
+Rep: That’s frustrating. What kind of support would you need to feel confident?
+Customer: Fast response and someone who can guide onboarding. I don’t want to waste time.
+Rep: Got it. Would a short onboarding session + a 2-week check-in help reduce that risk?
+Customer: Possibly. Still, the price is my biggest blocker.
+Rep: Understood. If we focus on the top outcome you want, I can show what plan fits without overpaying.
+Customer: Okay, but keep it quick.
+Rep: Absolutely. First, what’s the #1 metric you want to improve this month?

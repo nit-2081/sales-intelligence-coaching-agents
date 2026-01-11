@@ -1,0 +1,9 @@
+{
+  "customer_id": "CUST_001",
+  "name": "Sam Verma",
+  "company_size": "Small",
+  "industry": "Education",
+  "team_size": 6,
+  "primary_concerns": ["pricing", "ease_of_use"],
+  "current_tools": ["Google Sheets", "WhatsApp"]
+}

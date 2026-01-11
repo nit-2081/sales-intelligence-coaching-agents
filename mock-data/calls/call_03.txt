@@ -1,0 +1,22 @@
+Rep: Hi Alex, thanks for joining. I’ll jump right in since we don’t have much time.
+Customer: Okay.
+Rep: Our platform helps sales teams automate follow-ups and track engagement in one place.
+Customer: We already have tools for that.
+Rep: Sure, but ours is faster and easier to set up.
+Customer: Maybe, but we’re not actively looking to switch right now.
+Rep: Understood. So let me show you how it works at a high level.
+Customer: I’m not sure this is a priority for us.
+Rep: Most teams say that at first, but once they see the demo, it becomes clear.
+Customer: The other concern is pricing. We’re trying to reduce spend.
+Rep: Pricing is competitive compared to others on the market.
+Customer: Still, we’re cutting costs this quarter.
+Rep: Right, but long term it saves money by improving efficiency.
+Customer: Maybe.
+Rep: We integrate with most CRMs and can be live in a day.
+Customer: Implementation is another concern — we don’t have time.
+Rep: Implementation is usually quick.
+Customer: Okay.
+Rep: So yeah, that’s basically it.
+Customer: Alright.
+Rep: I’ll send you some information later.
+Customer: Sure.

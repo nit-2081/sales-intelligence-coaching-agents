@@ -1,0 +1,282 @@
+{
+  "status": "ok",
+  "telemetry_path": "D:\\kyra_works\\sales-intelligence-coaching-agents\\mock-data\\telemetry\\usage.csv",
+  "output_path": "D:\\kyra_works\\sales-intelligence-coaching-agents\\mock-data\\outputs\\retention_agent\\daily_output.json",
+  "customers_processed": 8,
+  "customers": [
+    {
+      "customer_id": "CUST_003",
+      "latest_period": "Week_4",
+      "risk_band": "high",
+      "churn_score": 0.9149009549929797,
+      "confidence": 1.0,
+      "reasons": [
+        "Logins dropped ~74% (early vs late).",
+        "Engagement time dropped ~78% (early vs late).",
+        "Feature usage dropped ~66% (early vs late)."
+      ],
+      "recommended_action": "draft_reengagement",
+      "next_step_hint": "Review the draft message and (if appropriate) reach out to the customer with help/resources.",
+      "debug": {
+        "risk_points": 51.75,
+        "signals": {
+          "window_days": 4,
+          "login_drop_pct": 0.7428571428571429,
+          "active_minutes_drop_pct": 0.7875,
+          "feature_usage_drop_pct": 0.6666666666666666,
+          "inactive_streak_days": 0,
+          "low_usage_days": 0,
+          "avg_logins_early": 17.5,
+          "avg_logins_late": 4.5,
+          "avg_minutes_early": 40.0,
+          "avg_minutes_late": 8.5,
+          "feature_rate_early": 4.5,
+          "feature_rate_late": 1.5
+        },
+        "thresholds": {
+          "high_threshold": 0.8,
+          "medium_threshold": 0.5,
+          "min_confidence_for_high": 0.6
+        }
+      }
+    },
+    {
+      "customer_id": "CUST_001",
+      "latest_period": "Week_4",
+      "risk_band": "medium",
+      "churn_score": 0.5251934432919617,
+      "confidence": 1.0,
+      "reasons": [
+        "No strong churn signals detected; continue monitoring usage trends."
+      ],
+      "recommended_action": "alert_csm",
+      "next_step_hint": "Review usage trends and decide whether a check-in call or email is needed.",
+      "debug": {
+        "risk_points": 29.008591860883882,
+        "signals": {
+          "window_days": 4,
+          "login_drop_pct": 0.42105263157894735,
+          "active_minutes_drop_pct": 0.44086021505376344,
+          "feature_usage_drop_pct": 0.36363636363636365,
+          "inactive_streak_days": 0,
+          "low_usage_days": 0,
+          "avg_logins_early": 19.0,
+          "avg_logins_late": 11.0,
+          "avg_minutes_early": 46.5,
+          "avg_minutes_late": 26.0,
+          "feature_rate_early": 5.5,
+          "feature_rate_late": 3.5
+        },
+        "thresholds": {
+          "high_threshold": 0.8,
+          "medium_threshold": 0.5,
+          "min_confidence_for_high": 0.6
+        }
+      }
+    },
+    {
+      "customer_id": "CUST_006",
+      "latest_period": "Week_4",
+      "risk_band": "low",
+      "churn_score": 0.17272818523197384,
+      "confidence": 1.0,
+      "reasons": [
+        "No strong churn signals detected; continue monitoring usage trends."
+      ],
+      "recommended_action": "no_action",
+      "next_step_hint": "No action needed. Continue monitoring in the next batch.",
+      "debug": {
+        "risk_points": 12.335858585858587,
+        "signals": {
+          "window_days": 4,
+          "login_drop_pct": 0.18181818181818182,
+          "active_minutes_drop_pct": 0.1111111111111111,
+          "feature_usage_drop_pct": 0.25,
+          "inactive_streak_days": 0,
+          "low_usage_days": 0,
+          "avg_logins_early": 5.5,
+          "avg_logins_late": 4.5,
+          "avg_minutes_early": 9.0,
+          "avg_minutes_late": 8.0,
+          "feature_rate_early": 2.0,
+          "feature_rate_late": 1.5
+        },
+        "thresholds": {
+          "high_threshold": 0.8,
+          "medium_threshold": 0.5,
+          "min_confidence_for_high": 0.6
+        }
+      }
+    },
+    {
+      "customer_id": "CUST_005",
+      "latest_period": "Week_4",
+      "risk_band": "low",
+      "churn_score": 0.1405644082643318,
+      "confidence": 1.0,
+      "reasons": [
+        "No strong churn signals detected; continue monitoring usage trends."
+      ],
+      "recommended_action": "no_action",
+      "next_step_hint": "No action needed. Continue monitoring in the next batch.",
+      "debug": {
+        "risk_points": 9.893899204244033,
+        "signals": {
+          "window_days": 4,
+          "login_drop_pct": 0.13793103448275862,
+          "active_minutes_drop_pct": 0.13793103448275862,
+          "feature_usage_drop_pct": 0.15384615384615385,
+          "inactive_streak_days": 0,
+          "low_usage_days": 0,
+          "avg_logins_early": 29.0,
+          "avg_logins_late": 25.0,
+          "avg_minutes_early": 72.5,
+          "avg_minutes_late": 62.5,
+          "feature_rate_early": 6.5,
+          "feature_rate_late": 5.5
+        },
+        "thresholds": {
+          "high_threshold": 0.8,
+          "medium_threshold": 0.5,
+          "min_confidence_for_high": 0.6
+        }
+      }
+    },
+    {
+      "customer_id": "CUST_002",
+      "latest_period": "Week_4",
+      "risk_band": "low",
+      "churn_score": 0.057324175898868755,
+      "confidence": 1.0,
+      "reasons": [
+        "No strong churn signals detected; continue monitoring usage trends."
+      ],
+      "recommended_action": "no_action",
+      "next_step_hint": "No action needed. Continue monitoring in the next batch.",
+      "debug": {
+        "risk_points": 0.0,
+        "signals": {
+          "window_days": 4,
+          "login_drop_pct": 0.0,
+          "active_minutes_drop_pct": 0.0,
+          "feature_usage_drop_pct": 0.0,
+          "inactive_streak_days": 0,
+          "low_usage_days": 0,
+          "avg_logins_early": 13.0,
+          "avg_logins_late": 17.0,
+          "avg_minutes_early": 32.5,
+          "avg_minutes_late": 39.0,
+          "feature_rate_early": 4.0,
+          "feature_rate_late": 5.0
+        },
+        "thresholds": {
+          "high_threshold": 0.8,
+          "medium_threshold": 0.5,
+          "min_confidence_for_high": 0.6
+        }
+      }
+    },
+    {
+      "customer_id": "CUST_004",
+      "latest_period": "Week_4",
+      "risk_band": "low",
+      "churn_score": 0.057324175898868755,
+      "confidence": 1.0,
+      "reasons": [
+        "No strong churn signals detected; continue monitoring usage trends."
+      ],
+      "recommended_action": "no_action",
+      "next_step_hint": "No action needed. Continue monitoring in the next batch.",
+      "debug": {
+        "risk_points": 0.0,
+        "signals": {
+          "window_days": 4,
+          "login_drop_pct": 0.0,
+          "active_minutes_drop_pct": 0.0,
+          "feature_usage_drop_pct": 0.0,
+          "inactive_streak_days": 0,
+          "low_usage_days": 0,
+          "avg_logins_early": 8.5,
+          "avg_logins_late": 12.0,
+          "avg_minutes_early": 16.5,
+          "avg_minutes_late": 23.5,
+          "feature_rate_early": 3.0,
+          "feature_rate_late": 4.0
+        },
+        "thresholds": {
+          "high_threshold": 0.8,
+          "medium_threshold": 0.5,
+          "min_confidence_for_high": 0.6
+        }
+      }
+    },
+    {
+      "customer_id": "CUST_007",
+      "latest_period": "Week_4",
+      "risk_band": "low",
+      "churn_score": 0.057324175898868755,
+      "confidence": 1.0,
+      "reasons": [
+        "No strong churn signals detected; continue monitoring usage trends."
+      ],
+      "recommended_action": "no_action",
+      "next_step_hint": "No action needed. Continue monitoring in the next batch.",
+      "debug": {
+        "risk_points": 0.0,
+        "signals": {
+          "window_days": 4,
+          "login_drop_pct": 0.0,
+          "active_minutes_drop_pct": 0.0,
+          "feature_usage_drop_pct": 0.0,
+          "inactive_streak_days": 0,
+          "low_usage_days": 0,
+          "avg_logins_early": 4.5,
+          "avg_logins_late": 16.0,
+          "avg_minutes_early": 8.5,
+          "avg_minutes_late": 36.5,
+          "feature_rate_early": 1.5,
+          "feature_rate_late": 4.5
+        },
+        "thresholds": {
+          "high_threshold": 0.8,
+          "medium_threshold": 0.5,
+          "min_confidence_for_high": 0.6
+        }
+      }
+    },
+    {
+      "customer_id": "CUST_008",
+      "latest_period": "Week_4",
+      "risk_band": "low",
+      "churn_score": 0.057324175898868755,
+      "confidence": 1.0,
+      "reasons": [
+        "No strong churn signals detected; continue monitoring usage trends."
+      ],
+      "recommended_action": "no_action",
+      "next_step_hint": "No action needed. Continue monitoring in the next batch.",
+      "debug": {
+        "risk_points": 0.0,
+        "signals": {
+          "window_days": 4,
+          "login_drop_pct": 0.0,
+          "active_minutes_drop_pct": 0.0,
+          "feature_usage_drop_pct": 0.0,
+          "inactive_streak_days": 0,
+          "low_usage_days": 0,
+          "avg_logins_early": 11.5,
+          "avg_logins_late": 12.5,
+          "avg_minutes_early": 26.5,
+          "avg_minutes_late": 30.0,
+          "feature_rate_early": 3.5,
+          "feature_rate_late": 4.0
+        },
+        "thresholds": {
+          "high_threshold": 0.8,
+          "medium_threshold": 0.5,
+          "min_confidence_for_high": 0.6
+        }
+      }
+    }
+  ]
+}

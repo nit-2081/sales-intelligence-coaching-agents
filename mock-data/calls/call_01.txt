@@ -1,0 +1,20 @@
+[CALL_01] Product: SafeSkool CRM Lite | Duration: ~2-3 mins | Scenario: Price objection
+
+Rep: Hey Sam, thanks for taking the time. I saw your team has been tracking leads in spreadsheets. How’s that going?
+Customer: Honestly, it’s messy. We lose track of follow-ups. But we’ve managed so far.
+Rep: That makes sense. If I could help you keep all leads organized and remind you automatically, would that be useful?
+Customer: Yeah, useful for sure. But I’m worried it’ll be complicated for my team.
+Rep: Totally fair. Most teams start simple. What tools does your team already use daily?
+Customer: Mostly WhatsApp and Google Sheets.
+Rep: Great. Our setup is designed for that kind of workflow. You can start with basic tracking and reminders.
+Customer: Okay… but I checked your pricing page. It feels expensive for us.
+Rep: I hear you. Before we talk numbers, can I ask how many leads you get per week?
+Customer: Around 40 to 50.
+Rep: Got it. If even 10 of those don’t get followed up, that’s lost revenue. Would it help if we calculate the cost of missed follow-ups?
+Customer: Maybe. But we also have another tool in mind that’s cheaper.
+Rep: Makes sense. What do you like about the cheaper tool so far?
+Customer: It seems simple and low cost. We’re a small team.
+Rep: Understood. If we can keep it simple for your team and show clear ROI, would you be open to a short trial?
+Customer: Yeah, a trial sounds okay.
+Rep: Perfect. Let’s do a 7-day trial with your real leads, and we’ll review results together.
+Customer: Okay. That sounds fair.

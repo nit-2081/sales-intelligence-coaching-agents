@@ -1,0 +1,14 @@
+Customer: We’re currently using CompetitorX. Why should we switch?
+Rep: Good question — what do you like most about CompetitorX today?
+Customer: It’s familiar, but reporting is messy and onboarding new reps is slow.
+Rep: That makes sense. If reporting and onboarding were smoother, would that be worth switching?
+Customer: Maybe, but we’re busy this quarter. Not sure we can change tools now.
+Rep: Totally fair. What would need to be true for you to revisit this — time, budget, or leadership buy-in?
+Customer: Mostly time. And I don’t want disruption.
+Rep: Understood. If we did a low-risk pilot with one team, would that feel less disruptive?
+Customer: Possibly, but I’m skeptical. Everyone says onboarding is easy.
+Rep: I hear you. Would you want to see a real onboarding walkthrough and support plan before deciding?
+Customer: Yes. Also, what about pricing compared to CompetitorX?
+Rep: Great point — if I outline a quick side-by-side on price vs outcomes, would that help?
+Customer: Sure, but I don’t want a long sales pitch.
+Rep: Got it. I’ll keep it concise and focus only on what matters to you.

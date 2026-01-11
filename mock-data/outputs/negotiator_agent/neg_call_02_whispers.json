@@ -1,0 +1,122 @@
+{
+  "call_id": "neg_call_02",
+  "input_file": "D:\\kyra_works\\sales-intelligence-coaching-agents\\mock-data\\calls\\neg_call_02.txt",
+  "mode": "simulated_stream",
+  "lines_per_chunk": 3,
+  "context_window_n": 4,
+  "whispers": [
+    {
+      "call_id": "neg_call_02",
+      "chunk_id": 1,
+      "whisper": {
+        "suggested_reply": "Got it \u2014 what do you like about your current tool, and what\u2019s missing? I can compare based on what matters to you.",
+        "tone": "curious",
+        "objection": "competitor"
+      },
+      "confidence": 0.75,
+      "strength": "soft",
+      "reason": "llm_failed:TypeError",
+      "generation_path": "fallback",
+      "signals": {
+        "sentiment_label": "positive",
+        "sentiment_confidence": 0.85
+      },
+      "debug": {
+        "base": 0.5,
+        "objection_boost": 0.25,
+        "sentiment_boost": 0.0,
+        "computed_confidence": 0.75,
+        "top_objection": "competitor",
+        "top_objection_evidence_count": 1,
+        "sentiment_label": "positive",
+        "sentiment_confidence": 0.8500000000000001,
+        "llm_used": false
+      }
+    },
+    {
+      "call_id": "neg_call_02",
+      "chunk_id": 2,
+      "whisper": {
+        "suggested_reply": "Totally fair. What budget range are you working with, and what outcome matters most so I can map value to that?",
+        "tone": "curious",
+        "objection": "price"
+      },
+      "confidence": 0.75,
+      "strength": "soft",
+      "reason": "llm_failed:TypeError",
+      "generation_path": "fallback",
+      "signals": {
+        "sentiment_label": "positive",
+        "sentiment_confidence": 0.65
+      },
+      "debug": {
+        "base": 0.5,
+        "objection_boost": 0.25,
+        "sentiment_boost": 0.0,
+        "computed_confidence": 0.75,
+        "top_objection": "price",
+        "top_objection_evidence_count": 1,
+        "sentiment_label": "positive",
+        "sentiment_confidence": 0.65,
+        "llm_used": false
+      }
+    },
+    {
+      "call_id": "neg_call_02",
+      "chunk_id": 3,
+      "whisper": {
+        "suggested_reply": "Fair question. What would give you confidence \u2014 proof points, security details, or a short pilot to validate fit?",
+        "tone": "reassuring",
+        "objection": "trust"
+      },
+      "confidence": 0.75,
+      "strength": "soft",
+      "reason": "llm_failed:TypeError",
+      "generation_path": "fallback",
+      "signals": {
+        "sentiment_label": "negative",
+        "sentiment_confidence": 0.55
+      },
+      "debug": {
+        "base": 0.5,
+        "objection_boost": 0.25,
+        "sentiment_boost": 0.0,
+        "computed_confidence": 0.75,
+        "top_objection": "trust",
+        "top_objection_evidence_count": 1,
+        "sentiment_label": "negative",
+        "sentiment_confidence": 0.55,
+        "llm_used": false
+      }
+    },
+    {
+      "call_id": "neg_call_02",
+      "chunk_id": 4,
+      "whisper": {
+        "suggested_reply": "Totally fair. What budget range are you working with, and what outcome matters most so I can map value to that?",
+        "tone": "curious",
+        "objection": "price"
+      },
+      "confidence": 0.75,
+      "strength": "soft",
+      "reason": "llm_failed:TypeError",
+      "generation_path": "fallback",
+      "signals": {
+        "sentiment_label": "positive",
+        "sentiment_confidence": 0.65
+      },
+      "debug": {
+        "base": 0.5,
+        "objection_boost": 0.25,
+        "sentiment_boost": 0.0,
+        "computed_confidence": 0.75,
+        "top_objection": "price",
+        "top_objection_evidence_count": 1,
+        "sentiment_label": "positive",
+        "sentiment_confidence": 0.65,
+        "llm_used": false
+      }
+    }
+  ],
+  "status": "ok"
+}

@@ -1,0 +1,27 @@
+{
+  "agent": "ai_sales_coach",
+  "call_id": "call_03",
+  "rep_id": "rep_01",
+  "scores": {
+    "empathy": 30,
+    "pacing": 90,
+    "objection_handling": 45,
+    "closing": 85
+  },
+  "top_gaps": [
+    "empathy",
+    "objection_handling"
+  ],
+  "micro_tips": [
+    "Actively acknowledge the prospect's perspective and feelings to demonstrate understanding and build stronger rapport.",
+    "When objections arise, such as around price or trust, clarify the specific concern to ensure a more targeted and effective response.",
+    "After clarifying an objection, briefly summarize the prospect's concern to confirm mutual understanding and effectively guide the conversation forward."
+  ],
+  "confidence": 0.952,
+  "reasons": [
+    "No long monologue segments detected (healthy pacing).",
+    "Objections detected but low empathy signals (handling may be weak).",
+    "Closing attempt detected (next step / demo / proposal).",
+    "ML quality probability: 1.00"
+  ]
+}

@@ -1,0 +1,48 @@
+Rep: Hey Sam, thanks for taking the time today. How’s your day going?
+Customer: It’s been busy, honestly. I’ve got about 10–15 minutes.
+Rep: Totally understand — I’ll keep it tight. What made you check us out?
+Customer: We’re looking to reduce manual follow-ups. Things slip through cracks.
+Rep: Got it. When you say follow-ups, is that after demos, renewals, or onboarding?
+Customer: Mostly after demos and initial trials. Reps forget or delay.
+Rep: That makes sense. How are you tracking it today?
+Customer: Spreadsheets and reminders. It’s messy.
+Rep: Yeah, that can get chaotic quickly. What happens when a follow-up is missed?
+Customer: We lose leads. Or the customer goes cold.
+Rep: Understood. So the goal is fewer missed follow-ups and faster response times.
+Customer: Exactly.
+
+Rep: Quick context — our tool automates follow-up nudges and gives reps a simple daily queue.
+Customer: We already use HubSpot. Doesn’t HubSpot do that?
+Rep: Great question. HubSpot can, but many teams don’t configure it deeply. We focus on making it automatic and very lightweight.
+Customer: Hmm. We’re also talking to a competitor — SalesLoft.
+Rep: Totally fair. What are you hoping SalesLoft would solve specifically?
+Customer: Mainly sequences and ensuring reps don’t forget.
+Rep: Makes sense. We’re similar on sequences, but we also surface “risk moments” based on customer behavior.
+Customer: Okay.
+
+Customer: But I’m worried about price. We’re a small team.
+Rep: I hear you — budgets are real. When you say small team, how many reps?
+Customer: Six reps, one manager.
+Rep: Got it. For teams that size, the value usually comes from recovering lost leads and saving rep time.
+Customer: Still, we can’t pay enterprise pricing.
+Rep: Totally. We’re not priced like enterprise tools, and we can start with a smaller plan.
+
+Customer: Another thing — implementation. We don’t have bandwidth this month.
+Rep: That’s understandable. What does “no bandwidth” look like — no admin time, or no time for training reps?
+Customer: Both. Everyone’s slammed.
+Rep: Makes sense. We can do a light setup in under an hour, and training is usually a 20-minute walkthrough.
+Customer: Sounds nice, but most tools say that.
+
+Rep: Fair point. If we kept it simple — connect HubSpot, pick one pipeline, and start with one sequence — would that be manageable?
+Customer: Maybe. But we’d need to see it working.
+Rep: Absolutely. The best next step is a short demo focused on your follow-up flow.
+Customer: I can do a demo, but not today.
+
+Rep: No problem. What does your schedule look like later this week?
+Customer: Thursday is packed. Friday morning maybe.
+Rep: Okay — how about Friday at 10:30 AM? We’ll keep it to 20 minutes and show HubSpot integration + a follow-up sequence.
+Customer: 10:30 could work. Send me something.
+Rep: Perfect — I’ll send a calendar invite and a short agenda. Before we wrap, any must-have requirement I should prepare for?
+Customer: Just make sure it’s easy for reps. They won’t use something complicated.
+Rep: Got it — simplicity is key. I’ll tailor the demo around that. Thanks Sam.
+Customer: Cool, thanks.

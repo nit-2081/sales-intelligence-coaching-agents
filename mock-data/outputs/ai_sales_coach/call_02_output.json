@@ -1,0 +1,28 @@
+{
+  "agent": "ai_sales_coach",
+  "call_id": "call_02",
+  "rep_id": "rep_01",
+  "scores": {
+    "empathy": 100,
+    "pacing": 90,
+    "objection_handling": 65,
+    "closing": 85
+  },
+  "top_gaps": [
+    "objection_handling",
+    "closing"
+  ],
+  "micro_tips": [
+    "To improve objection handling, clarify the specific details behind objections like price or timing to ensure your response is precisely targeted to the customer's concern.",
+    "When facing objections such as competitor or trust, acknowledge the customer's point and confirm your understanding to build rapport and effectively address their underlying issue.",
+    "To strengthen your closing, consistently propose a clear next step at the end of the conversation, which effectively guides the customer towards commitment."
+  ],
+  "confidence": 1.0,
+  "reasons": [
+    "Multiple empathy/acknowledgement phrases detected.",
+    "No long monologue segments detected (healthy pacing).",
+    "Objections detected and empathy signals present (better handling likelihood).",
+    "Closing attempt detected (next step / demo / proposal).",
+    "ML quality probability: 1.00"
+  ]
+}

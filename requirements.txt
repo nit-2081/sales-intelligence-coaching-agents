@@ -151,7 +151,7 @@ python-dotenv==1.0.0
 python-http-client==3.3.7
 python-multipart==0.0.20
 pytz==2025.2
-pywin32==308
+pywin32==308; platform_system=="Windows"
 PyYAML==6.0.1
 pyzmq==26.2.0
 rapid-table==1.0.5
